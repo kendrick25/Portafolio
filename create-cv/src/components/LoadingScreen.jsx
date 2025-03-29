@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export const LoadingScreen = ({ onComplete }) => {
     const [text, setText] = useState("");
-    const fullText = "< MailTo.Code />";
+    const fullText = "<MailTo.Code/>";
 
     // Función para aplicar color a cada parte del texto según su parte
     const getStyledText = (text) => {
@@ -11,7 +11,7 @@ export const LoadingScreen = ({ onComplete }) => {
         // Leemos letra por letra
         for (let i = 0; i < text.length; i++) {
             if (text[i] === '<') {
-                styledText.push(<span className="text-white">&lt;</span>);
+                styledText.push(<span className="text-green-500">&lt;</span>);
             } else if (text[i] === 'M' && text.substring(i, i + 4) === 'Mail') {
                 styledText.push(<span className="text-white">Mail</span>);
                 i += 3; // Saltar los 3 caracteres restantes de "Mail"
@@ -21,7 +21,11 @@ export const LoadingScreen = ({ onComplete }) => {
             } else if (text[i] === '.' && text.substring(i, i + 5) === '.Code') {
                 styledText.push(<span className="text-green-500">.Code</span>);
                 i += 4; // Saltar los 4 caracteres restantes de ".Code"
-            } else {
+            } else if (text[i] === '/') {
+                styledText.push(<span className="text-green-500">/</span>);
+            } else if (text[i] === '>') {
+                styledText.push(<span className="text-green-500">{">"}</span>);
+            }else {
                 styledText.push(text[i]); // Si no coincide, agregar el carácter normal
             }
         }
