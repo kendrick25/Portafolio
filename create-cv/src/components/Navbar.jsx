@@ -11,7 +11,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#home" className="font-mono text-xl font-bold text-white">
-           Mail<span className="text-blue-500">To</span><span className="text-green-500">.Code</span>
+          <span className="text-green-500">{"</> "}</span>Mail<span className="text-blue-500">To</span><span className="text-green-500">.Code</span>
           </a>
 
           {/* Ocultar la barra cuando el menú está abierto */}
