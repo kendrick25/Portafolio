@@ -8,6 +8,7 @@ Descargas necesarias:
 
 [Node.js](https://nodejs.org/es/download)
 
+
 >[!NOTE] 
 >Recuerda ejecutar el proyecto con los permisos necesarios o ejecuta esta linea de comando para otorgar estos permisos
 >```powershell
