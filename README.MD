@@ -4,11 +4,7 @@ Proyecto realizado en **Node.js** con front en **React Vite** y **Tailwindcss**.
 
 Descargas necesarias:
 
-![](recursos/images.png)
-
-![](recursos/images2.png)
-
-![](recursos/images3.png)
+![](Recursos/images.png ![](Recursos/images2.png)![](Recursos/images3.png)
 
 >[!NOTE] 
 >Recuerda ejecutar el proyecto con los permisos necesarios o ejecuta esta linea de comando para otorgar estos permisos
