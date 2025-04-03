@@ -5,6 +5,7 @@ Proyecto realizado en **Node.js** con front en **React Vite** y **Tailwindcss**.
 Descargas necesarias:
 
 ![](Recursos/images.png)
+
 [Node.js](https://nodejs.org/es/download)
 
 >[!NOTE] 
