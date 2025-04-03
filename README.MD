@@ -4,7 +4,8 @@ Proyecto realizado en **Node.js** con front en **React Vite** y **Tailwindcss**.
 
 Descargas necesarias:
 
-![](Recursos/images.png)![](Recursos/images2.png)![](Recursos/images3.png)
+![](Recursos/images.png)
+[Node.js](https://nodejs.org/es/download)
 
 >[!NOTE] 
 >Recuerda ejecutar el proyecto con los permisos necesarios o ejecuta esta linea de comando para otorgar estos permisos
@@ -25,6 +26,7 @@ Descargas necesarias:
 >```
 
 #### 3. Instalación de dependencias:
+![](Recursos/images2.png)![](Recursos/images3.png)
 >```powershell
 >PS C:\Users\kendr\Documents\GitHub\Portafolio> cd create-cv
 >PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install 
