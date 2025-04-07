@@ -33,6 +33,7 @@ Descargas necesarias:
 >PS C:\Users\kendr\Documents\GitHub\Portafolio> cd create-cv
 >PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install 
 >PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install tailwindcss @tailwindcss/vite
+>PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install emailjs-com
 >```
 
 #### 4. Configuración del proyecto:

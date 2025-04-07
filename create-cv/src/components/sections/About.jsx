@@ -16,7 +16,7 @@ export const About =() =>{
     <section 
     id= "about">
         <RevealOnScroll>
-        <div className="max-w-4xl mx-auto px4 mb-2 py-20 px-4">
+        <div className="max-w-5xl mx-auto px4 mb-2 py-18 px-4">
             <h2  className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-600 to-cyan-400 bg-clip-text text-transparent text-center">
                 {" "}
                 Acerca de mí
@@ -62,7 +62,7 @@ export const About =() =>{
                     <h3 className="text-xl font-bold mb-4">📚 Educación</h3>
                     <ul>
                         <li>
-                            <strong> Bachiller Especializado en Electrónica Industrial </strong>
+                            <strong> Bachiller Especializado en Homosexualidad </strong>
                         </li>
                         <li>
                             Relavant Coursework
