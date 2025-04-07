@@ -28,11 +28,12 @@ Descargas necesarias:
 >```
 
 #### 3. Instalación de dependencias:
-![](Recursos/images2.png)![](Recursos/images3.png)
+![](Recursos/images2.png)![](Recursos/images3.png)![](Recursos/images4.png)
 >```powershell
 >PS C:\Users\kendr\Documents\GitHub\Portafolio> cd create-cv
 >PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install 
 >PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install tailwindcss @tailwindcss/vite
+>PS C:\Users\kendr\Documents\GitHub\Portafolio\create-cv> npm install emailjs-com
 >```
 
 #### 4. Configuración del proyecto:
