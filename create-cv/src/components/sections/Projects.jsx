@@ -30,7 +30,7 @@ export const Projects = () => {
                             </span>
                         ))}
                     </div>
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-end items-center">
                         <a href="https://github.com/kendrick25/dfacescan" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
@@ -56,7 +56,7 @@ export const Projects = () => {
                             </span>
                         ))}
                     </div>
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-end items-center">
                         <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">  
                             {" "}
                             Ver Proyecto →
@@ -81,7 +81,7 @@ export const Projects = () => {
                             </span>
                         ))}
                     </div>
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-end items-center">
                         <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
@@ -106,7 +106,7 @@ export const Projects = () => {
                             </span>
                         ))}
                     </div>
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-end items-center">
                        <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
