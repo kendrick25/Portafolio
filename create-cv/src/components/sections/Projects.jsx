@@ -31,7 +31,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="https://github.com/kendrick25/dfacescan" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                        <a href="https://github.com/kendrick25/dfacescan" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
                         </a>
@@ -57,7 +57,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                        <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">  
                             {" "}
                             Ver Proyecto →
                         </a>
@@ -82,7 +82,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                        <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
                         </a>
@@ -107,7 +107,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                       <a href="#" className="text-gray-400 hover:text-white transition-colors my-4">
                             {" "}
                             Ver Proyecto →
                         </a>
